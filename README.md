@@ -1,5 +1,18 @@
 https://skhangns.github.io/NotePad/
 
+<img width="1414" alt="Screen Shot 2022-02-19 at 4 38 59 PM" src="https://user-images.githubusercontent.com/80996160/154820101-5c1c078a-1c78-4ba6-a4ce-b44af7cab6f9.png">
+
+
+<img width="1401" alt="Screen Shot 2022-02-19 at 4 40 53 PM" src="https://user-images.githubusercontent.com/80996160/154820105-3cfd66ca-73ec-4993-96a2-89d076ac432a.png">
+
+
+<img width="771" alt="Screen Shot 2022-02-19 at 4 41 26 PM" src="https://user-images.githubusercontent.com/80996160/154820110-f5127010-4d3c-4abd-9435-af8fed963148.png">
+
+
+
+
+
+
 # NotePad
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
